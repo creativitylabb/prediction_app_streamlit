@@ -24,6 +24,7 @@ dependencies:
 - numpy
 - pickle5==0.0.12
 - missingno
+- xgboost==1.5.2
 - pip:
   - streamlit==1.9.2
   - streamlit-authenticator==0.1.3
